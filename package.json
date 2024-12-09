@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "this is the second lesson of the FCC Backend Course",
-	"keywords": [],
+	"keywords": ["managing packages", "npm", "freeCodeCamp"],
 	"author": "James Saah Kollie",
 	"license": "ISC",
 	"bugs": {

@@ -15,7 +15,7 @@
 	"description": "this is the second lesson of the FCC Backend Course",
 	"keywords": ["managing packages", "npm", "freeCodeCamp"],
 	"author": "James Saah Kollie",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
